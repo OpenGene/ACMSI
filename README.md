@@ -7,6 +7,12 @@ The `Windows` version for directly used:<br>
 **The overall workflow shows:<br>**
 ![The workflow of ACMSI](https://github.com/CrazyJayyy/ACMSI/assets/173884768/61208972-613e-407d-b568-9404fc6b9295)
 
+**The result of MSI classification:<br>**
+The `red` portion represents **peaks shared** between tumor and normal tissues<br> 
+The `purple` portion represents **elevated peaks** in tumor tissue compared to normal tissue<br> 
+The `black` portion represents **new peaks** in tumor tissue<br>
+![图片](https://github.com/OpenGene/ACMSI/assets/173884768/40169efe-98d4-496e-b347-be3ad61d27d8)
+
 **Followings show the UI of 3 main modules of ACMSI:<br>**
 
 **<br>1. Plot of Fragment Analysis**
@@ -17,3 +23,4 @@ The `Windows` version for directly used:<br>
 
 **<br>3. Automated Classification of MSI**
 ![2024-06-14-14-40-37](https://github.com/OpenGene/ACMSI/assets/173884768/4a0becc5-48e4-4996-a935-e08016c6399f)
+
