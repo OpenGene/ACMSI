@@ -1,0 +1,7 @@
+site,marker,color,range,size
+BAT25,NED,orange,106-129,1
+BAT26,VIC,green,88-121,1
+D2S123,VIC,green,123-184,2
+D5S346,6-FAM,blue,126-188,2
+D17S250,NED,orange,171-232,2
+PentaC,6-FAM,blue,190-300,5
